@@ -7,7 +7,7 @@
 
 这一部分将收录我在学习过程中阅读的所有Coq项目，其中的部分或全部定理的摘录，以及相应的理论解释，证明思路（仅限部分）等，目前已收录：
 
-- [x] [CoqPrime](#coqprime)
+- [ ] [CoqPrime](#coqprime)
 - [ ] [WasmCert](#wasmcert)
 
 ### CoqPrime
@@ -29,6 +29,8 @@
 - [x] [Software Foundation Volume 1 - Logic Foundation (Cn)](https://coq-zh.github.io/SF-zh/lf-current/index.html)
 - [ ] [Software Foundation Volume 2 - Programming Language Foundations (Cn)](https://coq-zh.github.io/SF-zh/plf-current/index.html)
 ### Software Foundation
+
+尊重原书作者注，这部分不出现具体的解答，只会出现部分经典命题的解题思路等。
 
 `TODO`: 
 - [ ] 整理已完成部分，摘录经典命题。
